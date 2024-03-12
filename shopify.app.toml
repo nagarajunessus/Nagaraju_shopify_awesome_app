@@ -1,0 +1,29 @@
+# Learn more about configuring your app at https://shopify.dev/docs/apps/tools/cli/configuration
+
+client_id = "8d6915780de0b829f079081693dc0ca9"
+name = "awesome-app"
+handle = "awesome-app-16"
+application_url = "https://protection-values-represents-laser.trycloudflare.com"
+embedded = true
+
+[build]
+automatically_update_urls_on_dev = true
+dev_store_url = "quickstart-a931b877.myshopify.com"
+include_config_on_deploy = true
+
+[access_scopes]
+# Learn more at https://shopify.dev/docs/apps/tools/cli/configuration#access_scopes
+scopes = "write_products,read_products,read_inventory,write_discounts,write_customers,read_customers"
+
+[auth]
+redirect_urls = [
+  "https://protection-values-represents-laser.trycloudflare.com/auth/callback",
+  "https://protection-values-represents-laser.trycloudflare.com/auth/shopify/callback",
+  "https://protection-values-represents-laser.trycloudflare.com/api/auth/callback"
+]
+
+[webhooks]
+api_version = "2024-01"
+
+[pos]
+embedded = false

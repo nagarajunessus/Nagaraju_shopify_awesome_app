@@ -1,0 +1,266 @@
+{
+  "productData": [
+    {
+      "image": "https://cdn.zeptonow.com/production///tr:w-200,ar-818-897,pr-true,f-auto,q-80/cms/product_variant/29514c78-5e99-43a5-8471-c07e0170a7de.png",
+      "name": "Nandini Full Cream Fresh Milk (Pouch)",
+      "price": "2",
+      "quantity": "500 ml",
+      "id": "1",
+      "description": "'Goodlife Smart Homogenised Double Toned Milk UHT processed milk with Min 1.5% fat and Min 9.0% SNF fortified with vitamins A and D. Suitable for preparing tea/coffee', 'milk shakes and milk delights for people leading a fitness conscious lifestyle. To be consumed the same day.'"
+    },
+    {
+      "image": "https://cdn.zeptonow.com/production///tr:w-200,ar-1021-1021,pr-true,f-auto,q-80/cms/product_variant/33959736-0046-4f0d-9ec1-f1bb532c89be.jpeg",
+      "name": "Nandhini Thick Curd Pouch",
+      "price": "26",
+      "quantity": "500 ml",
+      "id": "2",
+      "description": "Goodlife Smart Homogenised Double Toned Milk UHT processed milk with Min 1.5% fat and Min 9.0% SNF fortified with vitamins A and D. Suitable for preparing tea/coffee"
+    },
+    {
+      "id": "3",
+      "image": "https://cdn.zeptonow.com/production///tr:w-200,ar-3000-3000,pr-true,f-auto,q-80/cms/product_variant/3383b1f8-c1be-4e07-ad30-74418513f8fc.jpeg",
+      "name": "Onion",
+      "quantity": "1 kg",
+      "price": "29",
+      "description": "Onions are high in nutrients and have been linked to a variety of health benefits such as enhanced heart health, better blood sugar control, and greater bone density."
+    },
+    {
+      "id": "4",
+      "image": "https://cdn.zeptonow.com/production///tr:w-200,ar-3000-3000,pr-true,f-auto,q-80/cms/product_variant/8d42f6c5-4e11-436d-81c4-cc24a3b28bcc.jpeg",
+      "name": "Coriander Leaves",
+      "price": "10",
+      "quantity": "100 g",
+      "description": "Coriander leaves are utilized as a seasoning element in many different cuisines."
+    },
+    {
+      "id": "5",
+      "image": "https://cdn.zeptonow.com/production///tr:w-200,ar-799-886,pr-true,f-auto,q-80/cms/product_variant/93f3f749-6f0a-47fb-a1a0-19adb5b7b92f.png",
+      "name": "Nandini Toned Fresh Milk (Pouch)",
+      "price": "22",
+      "quantity": "500 ml",
+      "description": "'Goodlife Smart Homogenised Double Toned Milk UHT processed milk with Min 1.5% fat and Min 9.0% SNF fortified with vitamins A and D. Suitable for preparing tea/coffee', 'milk shakes and milk delights for people leading a fitness conscious lifestyle. To be consumed the same day.'"
+    },
+    {
+      "id": "6",
+      "image": "https://cdn.zeptonow.com/production///tr:w-200,ar-3000-3000,pr-true,f-auto,q-80/cms/product_variant/459f37fc-13af-43a0-9037-12922b138d2f.jpeg",
+      "name": "Tomato Local",
+      "price": "40",
+      "quantity": "1kg",
+      "description": "'Goodlife Smart Homogenised Double Toned Milk UHT processed milk with Min 1.5% fat and Min 9.0% SNF fortified with vitamins A and D. Suitable for preparing tea/coffee', 'milk shakes and milk delights for people leading a fitness conscious lifestyle. To be consumed the same day.'"
+    },
+    {
+      "id": "7",
+      "image": "https://cdn.zeptonow.com/production///tr:w-200,ar-1021-1021,pr-true,f-auto,q-80/cms/product_variant/57788d4a-730c-44ad-b559-9873eb253422.jpeg",
+      "name": "Parrys White Label Sugar",
+      "price": "49",
+      "quantity": "1 kg",
+      "description": "'Goodlife Smart Homogenised Double Toned Milk UHT processed milk with Min 1.5% fat and Min 9.0% SNF fortified with vitamins A and D. Suitable for preparing tea/coffee', 'milk shakes and milk delights for people leading a fitness conscious lifestyle. To be consumed the same day.'"
+    },
+    {
+      "id": "8",
+      "image": "https://cdn.zeptonow.com/production///tr:w-450,ar-1021-1021,pr-true,f-auto,q-80/cms/product_variant/0051be8c-c6f0-43be-a534-82b6bc7d222a.jpeg",
+      "name": "Lay's West Indies Hot 'n' Sweet Chilli Potato Chips",
+      "price": "20",
+      "quantity": "50 g",
+      "description": "'Goodlife Smart Homogenised Double Toned Milk UHT processed milk with Min 1.5% fat and Min 9.0% SNF fortified with vitamins A and D. Suitable for preparing tea/coffee', 'milk shakes and milk delights for people leading a fitness conscious lifestyle. To be consumed the same day.'"
+    },
+    {
+      "id": "9",
+      "image": "https://cdn.zeptonow.com/production///tr:w-200,ar-1021-1021,pr-true,f-auto,q-80/cms/product_variant/5f134c5a-96e7-4a31-95be-aa3958d768c1.jpeg",
+      "name": "Lay's India's Magic Masala Potato Chips",
+      "price": "20",
+      "quantity": "50 g",
+      "description": "'Goodlife Smart Homogenised Double Toned Milk UHT processed milk with Min 1.5% fat and Min 9.0% SNF fortified with vitamins A and D. Suitable for preparing tea/coffee', 'milk shakes and milk delights for people leading a fitness conscious lifestyle. To be consumed the same day.'"
+    },
+    {
+      "id": "10",
+      "image": "https://cdn.zeptonow.com/production///tr:w-200,ar-953-1491,pr-true,f-auto,q-80/inventory/product/fed97af4-b3bb-44b4-9390-d2748ce7cdc1-1eC7_AO7pbGyVDaVOOZm8eiH1rO3PT0Jp.jpeg",
+      "name": "Coca-Cola Soft Drink",
+      "price": "44",
+      "quantity": "50 ml",
+      "description": "'Goodlife Smart Homogenised Double Toned Milk UHT processed milk with Min 1.5% fat and Min 9.0% SNF fortified with vitamins A and D. Suitable for preparing tea/coffee', 'milk shakes and milk delights for people leading a fitness conscious lifestyle. To be consumed the same day.'"
+    },
+    {
+      "id": "11",
+      "image": "https://cdn.zeptonow.com/production///tr:w-200,ar-2000-2000,pr-true,f-auto,q-80/cms/product_variant/a4bd1e3d-383f-4fda-a86a-39f76dc50ce1.jpeg",
+      "name": "MAGGI 2- Minute Instant Masala Noodles",
+      "price": "56",
+      "quantity": "280 g",
+      "description": "'Goodlife Smart Homogenised Double Toned Milk UHT processed milk with Min 1.5% fat and Min 9.0% SNF fortified with vitamins A and D. Suitable for preparing tea/coffee', 'milk shakes and milk delights for people leading a fitness conscious lifestyle. To be consumed the same day.'"
+    },
+    {
+      "id": "12",
+      "image": "https://cdn.zeptonow.com/production///tr:w-200,ar-711-2000,pr-true,f-auto,q-80/inventory/product/e364760c-8322-49d2-a040-b9698348075e-1RfNJT6Pny6ZSEy_C8v-jRd1mx5LmU1tj.jpeg",
+      "name": "Indic Wisdom Wood Pressed White Sesame Oil",
+      "price": "330",
+      "quantity": "1 L",
+      "description": "'Goodlife Smart Homogenised Double Toned Milk UHT processed milk with Min 1.5% fat and Min 9.0% SNF fortified with vitamins A and D. Suitable for preparing tea/coffee', 'milk shakes and milk delights for people leading a fitness conscious lifestyle. To be consumed the same day.'"
+    },
+    {
+      "image": "https://cdn.zeptonow.com/production///tr:w-200,ar-818-897,pr-true,f-auto,q-80/cms/product_variant/29514c78-5e99-43a5-8471-c07e0170a7de.png",
+      "name": "Nandini Full Cream Fresh Milk (Pouch)",
+      "price": "2",
+      "quantity": "500 ml",
+      "id": "13",
+      "description": "'Goodlife Smart Homogenised Double Toned Milk UHT processed milk with Min 1.5% fat and Min 9.0% SNF fortified with vitamins A and D. Suitable for preparing tea/coffee', 'milk shakes and milk delights for people leading a fitness conscious lifestyle. To be consumed the same day.'"
+    },
+    {
+      "image": "https://cdn.zeptonow.com/production///tr:w-200,ar-1021-1021,pr-true,f-auto,q-80/cms/product_variant/33959736-0046-4f0d-9ec1-f1bb532c89be.jpeg",
+      "name": "Nandhini Thick Curd Pouch",
+      "price": "26",
+      "quantity": "500 ml",
+      "id": "14",
+      "description": "Goodlife Smart Homogenised Double Toned Milk UHT processed milk with Min 1.5% fat and Min 9.0% SNF fortified with vitamins A and D. Suitable for preparing tea/coffee"
+    },
+    {
+      "id": "15",
+      "image": "https://cdn.zeptonow.com/production///tr:w-200,ar-3000-3000,pr-true,f-auto,q-80/cms/product_variant/3383b1f8-c1be-4e07-ad30-74418513f8fc.jpeg",
+      "name": "Onion",
+      "quantity": "1 kg",
+      "price": "29",
+      "description": "Onions are high in nutrients and have been linked to a variety of health benefits such as enhanced heart health, better blood sugar control, and greater bone density."
+    },
+    {
+      "id": "16",
+      "image": "https://cdn.zeptonow.com/production///tr:w-200,ar-3000-3000,pr-true,f-auto,q-80/cms/product_variant/8d42f6c5-4e11-436d-81c4-cc24a3b28bcc.jpeg",
+      "name": "Coriander Leaves",
+      "price": "10",
+      "quantity": "100 g",
+      "description": "Coriander leaves are utilized as a seasoning element in many different cuisines."
+    },
+    {
+      "id": "17",
+      "image": "https://cdn.zeptonow.com/production///tr:w-200,ar-799-886,pr-true,f-auto,q-80/cms/product_variant/93f3f749-6f0a-47fb-a1a0-19adb5b7b92f.png",
+      "name": "Nandini Toned Fresh Milk (Pouch)",
+      "price": "22",
+      "quantity": "500 ml",
+      "description": "'Goodlife Smart Homogenised Double Toned Milk UHT processed milk with Min 1.5% fat and Min 9.0% SNF fortified with vitamins A and D. Suitable for preparing tea/coffee', 'milk shakes and milk delights for people leading a fitness conscious lifestyle. To be consumed the same day.'"
+    },
+    {
+      "id": "18",
+      "image": "https://cdn.zeptonow.com/production///tr:w-200,ar-3000-3000,pr-true,f-auto,q-80/cms/product_variant/459f37fc-13af-43a0-9037-12922b138d2f.jpeg",
+      "name": "Tomato Local",
+      "price": "40",
+      "quantity": "1kg",
+      "description": "'Goodlife Smart Homogenised Double Toned Milk UHT processed milk with Min 1.5% fat and Min 9.0% SNF fortified with vitamins A and D. Suitable for preparing tea/coffee', 'milk shakes and milk delights for people leading a fitness conscious lifestyle. To be consumed the same day.'"
+    },
+    {
+      "id": "19",
+      "image": "https://cdn.zeptonow.com/production///tr:w-200,ar-1021-1021,pr-true,f-auto,q-80/cms/product_variant/57788d4a-730c-44ad-b559-9873eb253422.jpeg",
+      "name": "Parrys White Label Sugar",
+      "price": "49",
+      "quantity": "1 kg",
+      "description": "'Goodlife Smart Homogenised Double Toned Milk UHT processed milk with Min 1.5% fat and Min 9.0% SNF fortified with vitamins A and D. Suitable for preparing tea/coffee', 'milk shakes and milk delights for people leading a fitness conscious lifestyle. To be consumed the same day.'"
+    },
+    {
+      "id": "20",
+      "image": "https://cdn.zeptonow.com/production///tr:w-450,ar-1021-1021,pr-true,f-auto,q-80/cms/product_variant/0051be8c-c6f0-43be-a534-82b6bc7d222a.jpeg",
+      "name": "Lay's West Indies Hot 'n' Sweet Chilli Potato Chips",
+      "price": "20",
+      "quantity": "50 g",
+      "description": "'Goodlife Smart Homogenised Double Toned Milk UHT processed milk with Min 1.5% fat and Min 9.0% SNF fortified with vitamins A and D. Suitable for preparing tea/coffee', 'milk shakes and milk delights for people leading a fitness conscious lifestyle. To be consumed the same day.'"
+    },
+    {
+      "id": "21",
+      "image": "https://cdn.zeptonow.com/production///tr:w-200,ar-1021-1021,pr-true,f-auto,q-80/cms/product_variant/5f134c5a-96e7-4a31-95be-aa3958d768c1.jpeg",
+      "name": "Lay's India's Magic Masala Potato Chips",
+      "price": "20",
+      "quantity": "50 g",
+      "description": "'Goodlife Smart Homogenised Double Toned Milk UHT processed milk with Min 1.5% fat and Min 9.0% SNF fortified with vitamins A and D. Suitable for preparing tea/coffee', 'milk shakes and milk delights for people leading a fitness conscious lifestyle. To be consumed the same day.'"
+    },
+    {
+      "id": "22",
+      "image": "https://cdn.zeptonow.com/production///tr:w-200,ar-953-1491,pr-true,f-auto,q-80/inventory/product/fed97af4-b3bb-44b4-9390-d2748ce7cdc1-1eC7_AO7pbGyVDaVOOZm8eiH1rO3PT0Jp.jpeg",
+      "name": "Coca-Cola Soft Drink",
+      "price": "44",
+      "quantity": "50 ml",
+      "description": "'Goodlife Smart Homogenised Double Toned Milk UHT processed milk with Min 1.5% fat and Min 9.0% SNF fortified with vitamins A and D. Suitable for preparing tea/coffee', 'milk shakes and milk delights for people leading a fitness conscious lifestyle. To be consumed the same day.'"
+    },
+    {
+      "id": "23",
+      "image": "https://cdn.zeptonow.com/production///tr:w-200,ar-2000-2000,pr-true,f-auto,q-80/cms/product_variant/a4bd1e3d-383f-4fda-a86a-39f76dc50ce1.jpeg",
+      "name": "MAGGI 2- Minute Instant Masala Noodles",
+      "price": "56",
+      "quantity": "280 g",
+      "description": "'Goodlife Smart Homogenised Double Toned Milk UHT processed milk with Min 1.5% fat and Min 9.0% SNF fortified with vitamins A and D. Suitable for preparing tea/coffee', 'milk shakes and milk delights for people leading a fitness conscious lifestyle. To be consumed the same day.'"
+    },
+    {
+      "id": "24",
+      "image": "https://cdn.zeptonow.com/production///tr:w-200,ar-711-2000,pr-true,f-auto,q-80/inventory/product/e364760c-8322-49d2-a040-b9698348075e-1RfNJT6Pny6ZSEy_C8v-jRd1mx5LmU1tj.jpeg",
+      "name": "Indic Wisdom Wood Pressed White Sesame Oil",
+      "price": "330",
+      "quantity": "1 L",
+      "description": "'Goodlife Smart Homogenised Double Toned Milk UHT processed milk with Min 1.5% fat and Min 9.0% SNF fortified with vitamins A and D. Suitable for preparing tea/coffee', 'milk shakes and milk delights for people leading a fitness conscious lifestyle. To be consumed the same day.'"
+    },
+    {
+      "id": "25",
+      "image": "https://cdn.zeptonow.com/production///tr:w-450,ar-1021-1021,pr-true,f-auto,q-80/cms/product_variant/0051be8c-c6f0-43be-a534-82b6bc7d222a.jpeg",
+      "name": "Lay's West Indies Hot 'n' Sweet Chilli Potato Chips",
+      "price": "20",
+      "quantity": "50 g",
+      "description": "'Goodlife Smart Homogenised Double Toned Milk UHT processed milk with Min 1.5% fat and Min 9.0% SNF fortified with vitamins A and D. Suitable for preparing tea/coffee', 'milk shakes and milk delights for people leading a fitness conscious lifestyle. To be consumed the same day.'"
+    },
+    {
+      "id": "26",
+      "image": "https://cdn.zeptonow.com/production///tr:w-200,ar-1021-1021,pr-true,f-auto,q-80/cms/product_variant/5f134c5a-96e7-4a31-95be-aa3958d768c1.jpeg",
+      "name": "Lay's India's Magic Masala Potato Chips",
+      "price": "20",
+      "quantity": "50 g",
+      "description": "'Goodlife Smart Homogenised Double Toned Milk UHT processed milk with Min 1.5% fat and Min 9.0% SNF fortified with vitamins A and D. Suitable for preparing tea/coffee', 'milk shakes and milk delights for people leading a fitness conscious lifestyle. To be consumed the same day.'"
+    },
+    {
+      "id": "27",
+      "image": "https://cdn.zeptonow.com/production///tr:w-200,ar-953-1491,pr-true,f-auto,q-80/inventory/product/fed97af4-b3bb-44b4-9390-d2748ce7cdc1-1eC7_AO7pbGyVDaVOOZm8eiH1rO3PT0Jp.jpeg",
+      "name": "Coca-Cola Soft Drink",
+      "price": "44",
+      "quantity": "50 ml",
+      "description": "'Goodlife Smart Homogenised Double Toned Milk UHT processed milk with Min 1.5% fat and Min 9.0% SNF fortified with vitamins A and D. Suitable for preparing tea/coffee', 'milk shakes and milk delights for people leading a fitness conscious lifestyle. To be consumed the same day.'"
+    },
+    {
+      "id": "28",
+      "image": "https://cdn.zeptonow.com/production///tr:w-200,ar-2000-2000,pr-true,f-auto,q-80/cms/product_variant/a4bd1e3d-383f-4fda-a86a-39f76dc50ce1.jpeg",
+      "name": "MAGGI 2- Minute Instant Masala Noodles",
+      "price": "56",
+      "quantity": "280 g",
+      "description": "'Goodlife Smart Homogenised Double Toned Milk UHT processed milk with Min 1.5% fat and Min 9.0% SNF fortified with vitamins A and D. Suitable for preparing tea/coffee', 'milk shakes and milk delights for people leading a fitness conscious lifestyle. To be consumed the same day.'"
+    },
+    {
+      "id": "29",
+      "image": "https://cdn.zeptonow.com/production///tr:w-200,ar-711-2000,pr-true,f-auto,q-80/inventory/product/e364760c-8322-49d2-a040-b9698348075e-1RfNJT6Pny6ZSEy_C8v-jRd1mx5LmU1tj.jpeg",
+      "name": "Indic Wisdom Wood Pressed White Sesame Oil",
+      "price": "330",
+      "quantity": "1 L",
+      "description": "'Goodlife Smart Homogenised Double Toned Milk UHT processed milk with Min 1.5% fat and Min 9.0% SNF fortified with vitamins A and D. Suitable for preparing tea/coffee', 'milk shakes and milk delights for people leading a fitness conscious lifestyle. To be consumed the same day.'"
+    }
+  ],
+  "users": [
+    {
+      "id": "cae4",
+      "username": "Arun",
+      "email": "arunsekar071@gmail.com",
+      "password": "5454",
+      "confirmpassword": "5454"
+    },
+    {
+      "id": "9efb",
+      "username": "Hari",
+      "email": "hari01@gmail.com",
+      "password": "7845",
+      "confirmpassword": "7845"
+    },
+    {
+      "id": "b9cc",
+      "username": "abhi",
+      "email": "hari123@gmail.com",
+      "password": "1232",
+      "confirmpassword": "1232"
+    },
+    {
+      "id": "4dfc",
+      "username": "legend",
+      "email": "harikumar001@gmail.com",
+      "password": "5656",
+      "confirmpassword": "5656"
+    }
+  ]
+}

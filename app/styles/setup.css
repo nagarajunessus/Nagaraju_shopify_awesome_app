@@ -1,0 +1,795 @@
+.navbar-toggler {
+    border: 0 !important;
+}
+
+.navbar-toggler:focus,
+.navbar-toggler:active,
+.navbar-toggler-icon:focus {
+    outline: none !important;
+    box-shadow: none !important;
+    border: 0 !important;
+}
+
+/* Lines of the Toggler */
+.toggler-icon{
+    width: 30px;
+    height: 3px;
+    background-color:black;
+    display: block;
+}
+
+/* Adds Space between the lines */
+.middle-bar{
+    margin: 5px auto;
+}
+
+/* State when navbar is opened (START) */
+.navbar-toggler .top-bar {
+    transform: rotate(45deg);
+    transform-origin: 10% 10%;
+    top: 10px;
+}
+
+.navbar-toggler .middle-bar {
+    opacity: 0;
+    filter: alpha(opacity=0);
+}
+
+.navbar-toggler .bottom-bar {
+    transform: rotate(-45deg);
+    transform-origin: 10% 90%;
+    top: -10px;
+}
+/* State when navbar is opened (END) */
+
+/* State when navbar is collapsed (START) */
+.navbar-toggler.collapsed .top-bar {
+    transform: rotate(0);
+    top: 0;
+}
+
+.navbar-toggler.collapsed .middle-bar {
+    opacity: 1;
+    filter: alpha(opacity=100);
+}
+
+.navbar-toggler.collapsed .bottom-bar {
+    transform: rotate(0);
+    top: 0;
+}
+/* State when navbar is collapsed (END) */
+
+/* Color of Toggler when collapsed */
+.navbar-toggler.collapsed .toggler-icon {
+    background-color:black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Body content */
+
+
+
+.image-box {
+    /* Here's the trick */
+    box-shadow: inset 0 0 0 100vw #50369BB2;
+
+    /* Basic background styles */
+    background-position: 10% 49%;
+    background-image: url(../../public/image/kids-music-concept-cute-little-indian-kids-playing-musical-instruments-as-team-band-white-background.jpg);
+    background-size: cover;
+
+    /* Here's the same styles we applied to our content-div earlier */
+    color: white;
+    min-height: 80vh;
+
+    /* Add a transition, just for fun */
+    transition: box-shadow .3s ease-out;
+}
+
+.image-box:hover {
+    box-shadow: inset 0 0 0 100vw rgba(0, 0, 0, 0.2);
+}
+
+.image-box h1 {
+    position: relative;
+    min-height: 62vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Nunito;
+    font-size: 55px;
+    font-weight: 700;
+    line-height: 75px;
+    letter-spacing: 0em;
+    color: #FFFFFF;
+}
+
+
+.image-box h1::before {
+    position: absolute;
+    top: 60%;
+    left: 37%;
+    width: 26%;
+    height: 3px;
+    background-color: #CFD3D7;
+    content: "";
+}
+
+
+.image-box p {
+    text-align: center;
+    padding: 0px 30px;
+    margin-top: -110px;
+    font-family: Nunito;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 33px;
+    letter-spacing: 0em;
+    color: #FFFFFF;
+}
+
+
+
+
+.Clubs {
+    padding: 0px 100px;
+}
+
+.Clubs h1{
+    font-family: Nunito;
+font-size: 41px;
+font-weight: 700;
+line-height: 60px;
+letter-spacing: 0em;
+text-align: center;
+}
+
+
+
+.gallery{
+    margin-top: 25px;
+}
+
+.gallery-item .image1,
+.gallery-item .image2,
+.gallery-item .image3,
+.gallery-item .image4,
+.gallery-item .image5,
+.gallery-item .image6,
+.gallery-item .image7,
+.gallery-item .image8
+ {
+    object-fit: cover;
+    height: 250px;
+    width: 220px;
+}
+
+.gallery-item .image1{
+    object-position: -100px 0px;
+}
+.gallery-item .image2 {
+    object-position: center -59px;
+}
+
+.gallery-item .image3 {
+    object-fit: cover;
+}
+
+.gallery-item .image4 {
+    object-position: top center;
+    object-fit: cover;
+}
+
+.gallery-item .image5 {
+    object-position: center 0px;
+    object-fit: cover;
+}
+
+.gallery-item .image6 {
+    object-position: right;
+    object-fit: cover;
+}
+
+.gallery-item .image7 {
+    object-position: right;
+    object-fit: cover;
+}
+
+.gallery-item .image8 {
+    object-position: -79px 0px;
+    object-fit: cover;
+}
+
+.gallery-item {
+    margin-bottom: 30px;
+}
+
+.images {
+    position: relative;
+    width: 100%;
+}
+
+.image1 {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+.text{
+    font-family: Nunito;
+font-size: 22px;
+font-weight: 700;
+line-height: 30px;
+letter-spacing: 0em;
+text-align: center;
+
+}
+.overlay1,
+.overlay2,
+.overlay3,
+.overlay4,
+.overlay5,
+.overlay6,
+.overlay7,
+.overlay8
+{
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    opacity: 0;
+    transition: .5s ease;
+    width: 220px;
+    height: 250px;
+    background: linear-gradient(180deg, rgba(255, 255, 255, 0) 0%, rgba(0, 0, 0, 0.70) 100%);
+    box-shadow: 0px 4px 14px rgba(0, 0, 0, 0.15);
+}
+
+
+.images:hover .overlay1 {
+    cursor: pointer;
+    opacity: 1;
+}
+
+.image2 {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+.images:hover .overlay2 {
+    cursor: pointer;
+    opacity: 1;
+}
+
+.image3 {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+.images:hover .overlay3 {
+    cursor: pointer;
+    opacity: 1;
+}
+
+.image4 {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+
+.images:hover .overlay4 {
+    cursor: pointer;
+    opacity: 1;
+}
+
+.image5 {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+.images:hover .overlay5 {
+    cursor: pointer;
+    opacity: 1;
+}
+
+.image6 {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+.images:hover .overlay6 {
+    cursor: pointer;
+    opacity: 1;
+}
+
+.image7 {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+.images:hover .overlay7 {
+    cursor: pointer;
+    opacity: 1;
+}
+
+.image8 {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+.images:hover .overlay8 {
+    cursor: pointer;
+    opacity: 1;
+}
+
+.text {
+    color: white;
+    font-size: 20px;
+    position: absolute;
+    top: 80%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+
+.footers {
+    background-color: #0A0B0C;
+    padding: 30px;
+}
+
+.foot-content1 h5 {
+    font-family: Nunito;
+    color: #7853E0;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 22px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+.foot-content2 h5 {
+    font-family: Nunito;
+    color: #7853E0;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 22px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+.foot-content3 h5 {
+    font-family: Nunito;
+    color: #7853E0;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 22px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+.footer-things {
+    position: relative;
+}
+
+.footer-things::before {
+    position: absolute;
+    top: 120%;
+    left: 0%;
+    width: 100%;
+    height: 2px;
+    background-color: #CFD3D7;
+    content: "";
+}
+
+.footer-left .para {
+    font-size: 16px;
+    font-family: Nunito;
+    font-weight: 400;
+    line-height: 24px;
+    width: 230px;
+    height: 120px;
+    top: 136px;
+    left:104px;
+    color: #CFD3D7;
+}
+
+.foot-content1{
+    margin-top: 20px;
+}
+.foot-content2{
+    margin-top: 20px;
+}
+.foot-content3{
+    margin-top: 20px;
+}
+.foot-content3 p{
+    color:#CFD3D7;
+}
+
+.foot-content3 .btn {
+    margin-top: 30px;
+    background-color: #7853E0;
+    /* width: 50px; */
+    /* height: 53px; */
+    border-radius: 8px;
+    top: 248px;
+    left: 1040px;
+    padding: 10px 15px 10px 15px;
+    gap: 10px;
+}
+
+.foot-content3 input {
+    width: 135px;
+    height: 56px;
+    top: 168px; 
+    left:1040px;
+    border-radius:8px;
+    color: #0A0B0C;
+}
+
+.Copyright {
+    margin-top: 60px;
+}
+
+.Git{
+    display: flex;
+}
+.Git img{
+    width: fit-content;
+    height: fit-content;
+}
+.Git .p1{
+    margin-left: 10px;
+    color:#CFD3D7;
+    padding: 0px 55px 0px 0px;
+    font-family: Nunito;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+
+.Git .p2{
+    color:#CFD3D7;
+    margin-left: 10px;
+    font-family: Nunito;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+
+.Git .p3{
+    color:#CFD3D7;
+    margin-left: 10px;
+    font-family: Nunito;
+font-size: 15px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+
+.foot-content2 p{
+    color:#CFD3D7;
+    padding: 0px 0px 0px 0px;
+    font-family: Nunito;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+
+.foot-last{
+    color:#CFD3D7;
+    font-family: Nunito;
+font-size: 18px;
+font-weight: 400;
+line-height: 20px;
+letter-spacing: 0px;
+text-align: left;
+}
+
+
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+.search{
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    list-style: none;
+}
+
+.search a{
+    color: #59595d;
+    text-decoration: none;
+    font-size: 15px;
+}
+
+.search a:hover{
+    color: #0f1011;
+}
+
+.search > button{
+    background-color:#0D6EFD;
+    border-radius: 5px;
+    padding: 5px;
+    color: #fff;
+    border: transparent;
+}
+
+.search > button:hover{
+    background-color: #1a0552;
+    cursor: pointer;
+}
+
+
+.footer-img{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
+/* product */
+
+.product-image{
+    width: 150px;
+    height: 150px;
+}
+.product-image:hover{
+    transition: transform 0.5s ease-out;
+}
+.product-title{
+    font-size: 15px;
+    text-align: center;
+}
+.price{
+    font-size: 16px;
+    color: rgb(255, 0, 162);
+}
+.category{
+    font-size: 15px;
+    color: rgb(51, 0, 255);
+}
+.custom-card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    margin: auto;
+    text-align: center;
+    font-family: arial;
+    height: 280px;
+    padding: 15px;
+    background-color: #FFFFFF;
+    border-radius: 15px;
+    cursor: pointer;
+  }
+  
+  .card-sec{
+    padding-top: 5px;
+    /* display: flex;
+    justify-content: space-between; */
+  }
+
+
+  .custom-cards {
+    font-family: arial;
+    height: 330px;
+    padding: 15px;
+    background-color: #FFFFFF;
+    border-radius: 15px;
+    cursor: pointer;
+  }
+
+  .product-image1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.product-images{
+    margin-top: 30px;
+}
+
+.price-quant{
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+.product-title1{
+    font-size: 25px;
+    font-weight: 600;
+    color: #0A0B0C;
+}
+.description{
+    color: #59595d;
+    font-size: 16px;
+    margin-top: 5px;
+}
+
+.Back-btn{
+    margin-top: 20px;
+    background-color: #0D6EFD;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+.Back-btn:hover{
+    background-color: #7853E0;
+    cursor: pointer;
+}
+.discript-part{
+    margin-top: 20px;
+}
+.discr-heading{
+    font-size: 18px;
+    font-weight: 600;
+}
+
+
+
+
+/* Table */
+
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px; /* Add margin as needed */
+    background-color: #fafafa;
+}
+
+thead {
+    background-color: #fafafa;
+}
+
+th, td {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:hover {
+    background-color: #f5f5f5; /* Change the color on hover */
+}
+
+th{
+    text-align: center;
+}
+
+.product-image-table{
+    width: 150px;
+    height: 150px;
+}
+
+
+
+/* signup */
+
+.signup-form-container {
+    max-width: 400px;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: burlywood;
+  }
+  
+  .reg-head{
+    font-size: 30px;
+  }
+  .form-group {
+    margin-bottom: 15px;
+  }
+  
+  .signup-label {
+    display: block;
+    margin-bottom: 5px;
+    font-size: 15px;
+  }
+  
+  .signup-inputs {
+    width: 100%;
+    padding: 8px;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    margin-top: 3px;
+  }
+  
+  .signup-button {
+    background-color: #357f38;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+  }
+  
+  .signup-button:hover {
+    background-color: #134e16;
+  }
+  
+
+  /* Login */
+
+
+  /* setup.css */
+
+.login-form-container {
+    /* width: 300px;
+    margin: auto; */
+    max-width: 400px;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: rgb(135, 136, 222);
+}
+
+
+.login-label {
+    display: block;
+    font-size: 16px;
+    margin-bottom: 5px;
+    font-size: 15px;
+}
+
+.login-inputs {
+    width: 100%;
+    padding: 8px;
+    font-size: 14px;
+}
+
+.login-button {
+    background-color: #994caf;
+    color: white;
+    padding: 10px 15px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
+
+.login-button:hover {
+    background-color: #45a049;
+}
+
+
+  
+.log-head{
+    font-size: 30px;
+  }
