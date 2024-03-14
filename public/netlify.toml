@@ -1,5 +1,5 @@
 [[redirects]]
 
 from ="/*"
-to = "/routes"
+to = "/index.js"
 status = 200
