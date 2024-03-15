@@ -1,5 +1,5 @@
 [[redirects]]
 
 from ="/*"
-to = "/newmain.jsx"
+to = "/root.jsx"
 status = 200
