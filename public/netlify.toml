@@ -1,6 +1,6 @@
 [[redirects]]
   from = "/"
-  to = "/shopify.app.toml"
+  to = "/shopify.web.toml"
   status = 200
   force = true # COMMENT: ensure that we always redirect
   headers = {X-From = "Netlify"}
