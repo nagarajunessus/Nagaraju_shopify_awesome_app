@@ -80,10 +80,12 @@ export const action: ActionFunction = async ({ request }) => {
             email: email,
             name: name
         })
+        console.log(createCustomer)
 
         return json({
             data: data.data
         })
+        console.log(data.data ,"data")
     }
 
     } catch(err){
@@ -105,7 +107,7 @@ const Customers = () => {
     console.log(actionData, 'actionData');
 
     const generateCustomer = () => {
-      submit({}, { replace: true, method: 'POST'});
+      submit({name,email}, { replace: true, method: 'POST'});
     }
 
   
