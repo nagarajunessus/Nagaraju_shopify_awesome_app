@@ -1,5 +1,5 @@
 [[redirects]]
 
 from ="/*"
-to = "/root.jsx"
+to = "/index.js"
 status = 200
