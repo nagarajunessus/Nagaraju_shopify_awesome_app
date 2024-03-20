@@ -3,7 +3,7 @@
 client_id = "39d48f05d7b745f985b13967779c3900"
 name = "awesome-app"
 handle = "awesome-app-21"
-application_url = "https://diagnostic-house-representing-injuries.trycloudflare.com"
+application_url = "https://zdnet-refuse-rv-nylon.trycloudflare.com"
 embedded = true
 
 [build]
@@ -16,9 +16,9 @@ scopes = ""
 
 [auth]
 redirect_urls = [
-  "https://diagnostic-house-representing-injuries.trycloudflare.com/auth/callback",
-  "https://diagnostic-house-representing-injuries.trycloudflare.com/auth/shopify/callback",
-  "https://diagnostic-house-representing-injuries.trycloudflare.com/api/auth/callback"
+  "https://zdnet-refuse-rv-nylon.trycloudflare.com/auth/callback",
+  "https://zdnet-refuse-rv-nylon.trycloudflare.com/auth/shopify/callback",
+  "https://zdnet-refuse-rv-nylon.trycloudflare.com/api/auth/callback"
 ]
 
 [webhooks]
